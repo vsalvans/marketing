@@ -1,5 +1,5 @@
 
-Víctor Salvans Monteso
+Is email marketing dead?
 
 <img src="resources/images/me2-color.jpg" width="200">
 
