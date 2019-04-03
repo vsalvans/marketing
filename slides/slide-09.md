@@ -1,14 +1,9 @@
-### REST Architecture
+### Email Marketing Predictions for 2019 and Beyond
 
-What about APIs, are they RESTful?
-
-* Libraries and frameworks
-* Operating Systems 
-* Remote APIs
-* Web APIs
-	* Uses media like HTML, XML,<br>JSON, CSS, images, video, sound, anything
-	* Most uses HTTP protocol
-	* <span style="color: red">But not all of them are REST</span>
-
-<img src="resources/images/api-verdura.jpeg" style="position: absolute; top: 150px; right: 50px;">
+	<span class="fragmanet">Interactivity, where email recipients can interact with your content without leaving the email. This includes creating richer experiences for subscribers</span>
+	<span class="fragmanet">Personalization and creating lifetime value for subscribers and customers</span>
+	<span class="fragmanet">Creating email content that’s shorter and more “snackable”</span>
+	<span class="fragmanet">Improving email accessibility for subscribers with disabilities</span>
+	<span class="fragmanet">Sending more emails that are text only</span>
+	<span class="fragmanet">Litmus also recommends more storytelling in emails, and generally being human.</span>
 
